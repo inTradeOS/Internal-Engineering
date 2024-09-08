@@ -1,1 +1,1 @@
-(inTradeOS AppStore)[https://github.com/inTradeOS/AppStore]
+[inTradeOS AppStore](https://github.com/inTradeOS/AppStore)
